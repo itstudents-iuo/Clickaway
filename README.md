@@ -9,7 +9,7 @@ ClickAway is a mobile-first delivery platform tailored exclusively for the Igbin
 - *Academic Supplies* – Request books, stationery, and other school essentials right to your spot.
 - *Fast Campus Delivery* – All orders delivered directly to your dorm or study area within minutes.
 
-  # how it works
+ # how it works
  1. *Browse* – Open the Clickaway app and explore food, groceries, and essentials.
 2. *Order* – Add items to your cart and confirm your order.
 3. *Track* – Watch your delivery progress in real time.
