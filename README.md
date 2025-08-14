@@ -21,5 +21,5 @@ ClickAway is a mobile-first delivery platform tailored exclusively for the Igbin
 
 # contact and support
 Have questions or feedback?  
-📧 Email:  
+📧 Email:  itstudents@iuokada.edu.ng
 📍 Location: Igbinedion University Okada
